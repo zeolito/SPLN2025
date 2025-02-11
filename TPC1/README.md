@@ -1,4 +1,4 @@
-# TPC1 - Removedor de Linhas Duplicadas
+# TPC1 - Remover de Linhas Duplicadas
 
 ## Descrição
 Este script Python fornece uma ferramenta de linha de comando para remover linhas duplicadas de um arquivo de texto, com a opção adicional de contabilizar e exibir o número de ocorrências de cada linha.
