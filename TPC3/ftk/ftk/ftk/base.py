@@ -78,6 +78,3 @@ def main():
     print(f"\nAfter adding 5 occurrences of '{example_token}':")
     modified_counter = modify_occurrences(token_counter, example_token, 5)
     print(f"New count: {token_occurrences(modified_counter, example_token)}")
-
-if __name__ == "__main__":
-    main()
